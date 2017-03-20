@@ -179,23 +179,7 @@ show profile for query 1
 5. 优化频繁执行的sql，而不是某些频率低的“大”SQL
 
 
-# 扩展阅读
 
-- 深入理解MySQL核心技术
-    - Sasha Pachev在2000年到2002年期间是MySQL开发团队成员之一
-    - 这本书很薄
-
-- 高性能MySQL
-    - PeterZaitsev曾经是MySQLAB公司高性能组的经理,  现在是Percona CEO
-
-- 高可用性MySQL
-    - CharlesBell
-    - Mats Kindahl
-    - Lars Thalmann
-- MySQL技术内幕:InnoDB存储引擎
-    - 姜承尧
-- http://blog.jcole.us/2013/01/10/btree-index-structures-in-innodb/
-- http://www.xaprb.com/blog/2015/08/08/innodb-book-outline/
 
 
 
